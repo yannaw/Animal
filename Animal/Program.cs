@@ -23,7 +23,9 @@ namespace Arv {
             doglList.Add(new Dog());
             //            doglList.Add(new Horse()); //Kan ej kasta häst till dog
 
+
             var birdList = new List<Bird>();
+
             birdList.Add(new Pelican());
             birdList.Add(new Flamingo());
             birdList.Add(new Swan());
